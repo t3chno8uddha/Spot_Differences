@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bf7793fc67b1d4b48979bbd6b799601e
+  m_SerializeEntries:
+  - m_GUID: 7ba847a118edbdb4e9293faa3282eb47
+    m_Address: Assets/Art/Sprites/Background.PNG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dbc1366ed522de4988b37e238a1b92f
+    m_Address: Assets/Art/Sprites/Bowl_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a064eac26881ba84c919181e5532ed10
+    m_Address: Assets/Art/Sprites/Bowl_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ea899516aab5b14da0cc644fa740f48
+    m_Address: Assets/Art/Sprites/Carpet_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1c0fc5273961474684ee548eb6d7d15
+    m_Address: Assets/Art/Sprites/Carpet_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be3f5ac70039675438ed82fec8898923
+    m_Address: Assets/Art/Sprites/Cat_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21a95043fa9a86f419f387edeb5f322c
+    m_Address: Assets/Art/Sprites/Cat_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 266581db3649a9f4298b71e418ae04f5
+    m_Address: Assets/Art/Sprites/Desk_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7df83758208cd744d807b64b0c5ab4d1
+    m_Address: Assets/Art/Sprites/Desk_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45260838d32b46b45b772793ea8c6591
+    m_Address: Assets/Art/Sprites/Environment.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f38ea20344d4054ea30bd739a8592dd
+    m_Address: Assets/Art/Sprites/Painting_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97ac69ea5df90fb48a6615eabd91fee9
+    m_Address: Assets/Art/Sprites/Painting_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d774e02df3de48844b27c63a1f1a3446
+    m_Address: Assets/Art/Sprites/Pillow_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aca01537ad70de64488a12d729d27be1
+    m_Address: Assets/Art/Sprites/Pillow_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa6320f2dc9498e4a9a075e3c816ff6f
+    m_Address: Assets/Art/Sprites/Yarnball_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce0b11208c15899429cf981d86297105
+    m_Address: Assets/Art/Sprites/Yarnball_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9379b12e4a766542ace5422e91890eb
+    m_Address: Assets/Art/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6fe8ecc97f3fa04d8d0248c6d5fe611
+    m_Address: Assets/Art
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5327e538e167f6b439e1ea90638ecbe9
+    m_Address: Assets/Gameplay/Code/Scripts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c32e8b357440b0e4e9a5241ed19bf774
+    m_Address: Assets/SpotDifferences.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cf84f78b84f8764782567f25f823227
+    m_Address: EntryPointPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55300ddb603aa174f9d8084f207c88bd
+    m_Address: EntryPoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94bb56571317d4346aeb751e6c50e65d
+    m_Address: Assets/Spot_Differences/Runtime/MiniGameConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93b439a37f63240aca3dd4e01d978a9f
+    m_Address: Assets/Settings/URP Global Settings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0cf2aad414ff60145b0c5c8e24687875, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84a2843f45a0592429f67aba60c4df92, type: 2}
+    - {fileID: 11400000, guid: 047c3f9f8d96f5f4792cfa970b2bcf84, type: 2}
