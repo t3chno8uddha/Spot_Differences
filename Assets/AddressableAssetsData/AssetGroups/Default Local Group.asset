@@ -107,11 +107,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5327e538e167f6b439e1ea90638ecbe9
-    m_Address: Assets/Gameplay/Code/Scripts
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c32e8b357440b0e4e9a5241ed19bf774
     m_Address: Assets/SpotDifferences.unity
     m_ReadOnly: 0
@@ -127,8 +122,83 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 94bb56571317d4346aeb751e6c50e65d
-    m_Address: Assets/Spot_Differences/Runtime/MiniGameConfig.asset
+  - m_GUID: 5961d4d46c492e84abe37a962a661fbf
+    m_Address: Assets/Art/Sprites/adasdead/Painting_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d84952e462bd33047bb4e1645c794cdb
+    m_Address: Assets/Art/Sprites/adasdead/Cat_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 600a8f6d15ebf1a45971773d88b0474b
+    m_Address: Assets/Art/Sprites/adasdead/Desk_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7425feb845dabc84b9c02b1b9e069d68
+    m_Address: Assets/Art/Sprites/adasdead/Bowl_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc0c02e10798c9842a472e4441b5e598
+    m_Address: Assets/Art/Sprites/adasdead/Yarnball_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dda922aaea03a1343b1337d1e30603b6
+    m_Address: Assets/Art/Sprites/adasdead/Pillow_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7c3be33506ecf342acc194599ef66fa
+    m_Address: Assets/Art/Sprites/adasdead/Cat_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a7e88dde59f6dd47a919da1157df207
+    m_Address: Assets/Art/Sprites/adasdead/Painting_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33d952919c35589499c567c43b87bb27
+    m_Address: Assets/Art/Sprites/adasdead/Bowl_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e1c6e09594a6bf43b16767ff327b0d0
+    m_Address: Assets/Art/Sprites/deadead/Circle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0583df6ee45b27c429f7a8fd421afc60
+    m_Address: Assets/Art/Shaders/Circler.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6443dc40af9c73c47a9c72543f06d9af
+    m_Address: Assets/Art/Shaders/Circle.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4749cc7e26f474458cff6c656e343f0
+    m_Address: Assets/Art/Circle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e59c59b81ab47f9b6ec5781fa725d2c
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f54d1bd14bd3ca042bd867b519fee8cc
+    m_Address: Assets/TextMesh Pro
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
