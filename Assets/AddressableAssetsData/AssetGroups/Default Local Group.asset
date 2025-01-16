@@ -202,6 +202,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 862eb9582d7f5b84f90299a33b90ebbc
+    m_Address: Assets/Art/Sprites/pointer finger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0cf2aad414ff60145b0c5c8e24687875, type: 2}
   m_SchemaSet:
