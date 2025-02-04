@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: bf7793fc67b1d4b48979bbd6b799601e
   m_currentHash:
     serializedVersion: 2
-    Hash: 532ae8d81d6aacec8e0b6edb1007d65f
+    Hash: 2027e3fd4c5e7d336bd5f14c3a2d78ed
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -68,11 +68,11 @@ MonoBehaviour:
       - m_Id: d9495b71468179743b90327c5fac54c7
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
       - m_Id: b27978cc239425d48a61fdff1df76341
-        m_Value: 0.1.6
+        m_Value: 0.1.15
       - m_Id: 7c622420c80d05d4bb29881a61ae6333
-        m_Value: ServerData/Spot_Differences/[BuildTarget]/[BundleVersion]/
+        m_Value: ServerData/Find_the_Difference/[BuildTarget]/[BundleVersion]/
       - m_Id: 4a1375a88921eb647bdaecc2677d13ce
-        m_Value: https://pub-bdd30e10c7d8406d84dc505dbced6b0f.r2.dev/Spot_Differences/[BuildTarget]/[BundleVersion]/
+        m_Value: https://pub-bdd30e10c7d8406d84dc505dbced6b0f.r2.dev/Find_the_Difference/[BuildTarget]/[BundleVersion]/
     m_ProfileEntryNames:
     - m_Id: de1d47039b60f5343a904c9f1e1ce58d
       m_Name: BuildTarget

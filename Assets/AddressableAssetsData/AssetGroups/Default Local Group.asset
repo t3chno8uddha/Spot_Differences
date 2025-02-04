@@ -207,6 +207,36 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb8b118c834c624ca2e52906d3f7efc
+    m_Address: Assets/Art/Finger Point/Hand.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acf3503b403897e4ab820c77eaf2269a
+    m_Address: Assets/Finger Point/Pointer.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ecbb51a25d863449a8553b7abbafa3a
+    m_Address: Assets/Art/Sprites/home-3 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3e3efeafe9fc71448e1d0074c594f85
+    m_Address: Assets/Finger Point
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ae4db6a87339d345b8d76c773a75f1c
+    m_Address: Assets/Art/Sprites/Diff/Shelf_L.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 450f19f114b618f488eef239c0db57a3
+    m_Address: Assets/Game/Sprites/Diff/Shelf_R.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0cf2aad414ff60145b0c5c8e24687875, type: 2}
   m_SchemaSet:
