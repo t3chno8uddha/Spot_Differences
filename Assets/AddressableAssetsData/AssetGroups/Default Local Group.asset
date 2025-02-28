@@ -237,6 +237,26 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e916d971e429456c958a93c7e0964cb
+    m_Address: Assets/Slider.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b6d381c2b16554aabe59a53b412c70
+    m_Address: Assets/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 246ed74aede0343df82f8084508904f7
+    m_Address: Assets/Sprites/UI/back-button.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e0a915b85b984e00be595d40c1251bb
+    m_Address: Assets/Sprites/UI/back-button-(2).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0cf2aad414ff60145b0c5c8e24687875, type: 2}
   m_SchemaSet:

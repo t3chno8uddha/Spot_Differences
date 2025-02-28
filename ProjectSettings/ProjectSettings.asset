@@ -162,7 +162,8 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.AppIdea.Find_The_Difference
-    Standalone: com.DefaultCompany.2DProject
+    Standalone: com.AppIdea.Find-The-Difference
+    iPhone: com.AppIdea.Find-The-Difference
   buildNumber:
     Standalone: 0
     VisionOS: 0
